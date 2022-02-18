@@ -1,0 +1,1 @@
+INSERT INTO mycompany.known_fruits(id, name) VALUES (4, 'Lime');

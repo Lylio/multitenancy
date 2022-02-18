@@ -1,0 +1,1 @@
+INSERT INTO base.known_fruits(id, name) VALUES (4, 'Mango');

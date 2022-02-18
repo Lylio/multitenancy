@@ -1,0 +1,1 @@
+INSERT INTO mycompany.known_colours(id, name) VALUES (1, 'Green');
